@@ -1,4 +1,7 @@
 calisthenics AI
+## download
+git clone https://github.com/fbedev/calisthenics-AI
+
 ## Requirements
 - Python 3.7 or higher
 - PyTorch
