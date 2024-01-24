@@ -1,4 +1,6 @@
-calisthenics AI
+calisthenics AI 
+## contact
+fbe_dev on discord for issues
 ## download
 git clone https://github.com/fbedev/calisthenics-AI
 
@@ -23,3 +25,4 @@ python3 hs_AI.py
 python3 hs_google.py
 # Usage
 python3 hs_inference.py --model model_weights.pth --image (path to image)
+## coming soon
