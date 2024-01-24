@@ -11,10 +11,14 @@ calisthenics AI
 
 Install the required packages using:
 ```bash
+#install requirements
 pip install -r requirements.txt
-#setup
-run hs_AI.py to get the AI pth file
+#get AI pth file, you can also get it from the calisthenics_hs.pth
+python3 hs_AI.py
 
+#more
+python3 hs_google.py
+to get 20 handstand picture to the folder(for training)
 
 # Usage
 python3 hs_inference.py --model model_weights.pth --image (path to image)
